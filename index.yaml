@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  helms:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2025-12-03T14:38:50.588551218+05:30"
+    description: A Helm chart for Kubernetes
+    digest: e7abc88e6111ddb2ebc1bb05b8028708453adefce39fdaf058147355bec37f78
+    name: helms
+    type: application
+    urls:
+    - https://nitesh-reddy-sigmoidanalytics.github.io/helms/helms-0.1.0.tgz
+    version: 0.1.0
+generated: "2025-12-03T14:38:50.587914222+05:30"
